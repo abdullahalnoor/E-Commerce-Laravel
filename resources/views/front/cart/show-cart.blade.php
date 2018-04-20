@@ -115,4 +115,12 @@
         </div>
     </div>
     <!-- //about -->
+
+
+    <!-- //Related Products --> 
+
+    {{-- @include('front.includes.related-product') --}}
+ 
+    <!-- //Related Products --> 
+
 @endsection

@@ -563,6 +563,5 @@
             </div>
         </div>
     </div>
-  @include('front.includes.related-product')
     
 @endsection
